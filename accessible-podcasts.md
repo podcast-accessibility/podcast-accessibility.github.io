@@ -15,7 +15,8 @@ Do note - While we will make every possible effort to double check new entries, 
 
 The A11y Rules Podcast
 : [https://a11yrules.com](https://a11yrules.com)
-: Conversations around web accessibility.
+: Nic Steenhout leads conversations around web accessibility.
+: All episodes transcribed. Website accessible.
 
 The Web Ahead
 : [http://www.thewebahead.net](http://www.thewebahead.net)
