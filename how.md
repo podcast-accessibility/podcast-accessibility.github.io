@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accessible Podcast Directory
+title: How to implement podcast accessibility
 permalink: /how/
 sidebar_link: true
 ---
