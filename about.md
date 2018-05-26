@@ -15,6 +15,7 @@ Nic runs the A11y Rules Podcast, a show about web accessibility. He wants to spr
 
 ### Nicolas Steenhout
 
+![](/images/nic-steenhout.jpg){:width="150px"}
 A developer in the mid-'90s, Nicolas Steenhout was approached by clients facing issues not yet part of the public consciousness. On the emerging web, accessibility hurdles were keeping people with disabilities from engaging with a technological revolution. 
 
 Confronted by this gap within the digital landscape, Nic began championing web accessibility. He transitioned into the non-profit sector where he collaborated with people with a wide variety of impairments and was introduced to new assistive technologies. 
