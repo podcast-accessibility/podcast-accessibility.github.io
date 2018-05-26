@@ -1,6 +1,8 @@
 ---
 layout: page
 title: How to implement podcast accessibility
+nav_title: How
+order: 3
 permalink: /how/
 sidebar_link: true
 ---
