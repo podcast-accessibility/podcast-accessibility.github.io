@@ -7,15 +7,13 @@ permalink: /about/
 sidebar_link: true
 ---
 
-## About this site
-
-### Why it got started
+## Why it got started
 
 Nic runs the A11y Rules Podcast, a show about web accessibility. He wants to spread the word about podcast accessibility, because he's passionate about accessibilty.
 
-### Who is behind it
+## Who is behind it
 
-#### Nicolas Steenhout
+### Nicolas Steenhout
 
 A developer in the mid-'90s, Nicolas Steenhout was approached by clients facing issues not yet part of the public consciousness. On the emerging web, accessibility hurdles were keeping people with disabilities from engaging with a technological revolution. 
 
@@ -30,4 +28,4 @@ You can find Nic here:
 * [Twitter: @vavroom](http://twitter.com/vavroom)
 * [LinkedIn](https://www.linkedin.com/in/nicolassteenhout/)
 
-#### Eric Eggert
+### Eric Eggert
