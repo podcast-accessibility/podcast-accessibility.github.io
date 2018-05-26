@@ -30,3 +30,4 @@ You can find Nic here:
 * [LinkedIn](https://www.linkedin.com/in/nicolassteenhout/)
 
 ### Eric Eggert
+![](/images/eric-eggert.jpg){:width="150px"}
