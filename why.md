@@ -6,7 +6,6 @@ order: 2
 permalink: /why/
 sidebar_link: true
 ---
-## Why make your podcast accessible?
 
 First and foremost, to make sure the shows are available for people with disabilities. This means potentially growing your audience.
 
