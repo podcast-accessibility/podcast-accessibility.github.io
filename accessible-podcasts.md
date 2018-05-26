@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Accessible Podcast Directory
+nav_title: Podcasts list
+order:3
 permalink: /directory/
 sidebar_link: true
 ---
