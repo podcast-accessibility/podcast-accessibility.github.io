@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+nav_title: About
+order: 4
 permalink: /about/
 sidebar_link: true
 ---
