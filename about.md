@@ -21,4 +21,11 @@ Confronted by this gap within the digital landscape, Nic began championing web a
 
 Twenty years on, Nic continues his accessibility work as a consultant for both the private and non-profit sectors. Having worked on three continents, he’s engaged with thousands of individuals with disabilities. Blogger, podcaster, public speaker, Nic offers real-world insight into everyday accessibility issues.  
 
+You can find Nic here:
+
+* [Part of a Whole](https://incl.ca)
+* [A11y Rules Podcast](https://a11yrules.com)
+* [Twitter: @vavroom](http://twitter.com/vavroom)
+* [LinkedIn](https://www.linkedin.com/in/nicolassteenhout/)
+
 #### Eric Eggert
