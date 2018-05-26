@@ -7,3 +7,13 @@ title: Home
 ---
 
 # Welcome to Podcast Accessibility
+
+Your podcast should be accessible. But what does that mean, exactly? Why should you care? What can you do to improve the accessibility? 
+
+We're going to answer these questions for you! We'll help you get 
+
+## Why
+
+## How
+
+## Podcast list
