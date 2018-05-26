@@ -14,3 +14,5 @@ Do note - While we will make every possible effort to double check new entries, 
 The A11y Rules Podcast
 : [https://a11yrules.com](https://a11yrules.com)
 : Conversations around web accessibility.
+
+[Add more podcasts to this page on GitHub.](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/{{page.path}})
