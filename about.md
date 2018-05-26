@@ -32,4 +32,14 @@ You can find Nic here:
 * [LinkedIn](https://www.linkedin.com/in/nicolassteenhout/)
 
 ### Eric Eggert
-![](/images/eric-eggert.jpg){:width="150px"}
+
+![](https://avatar.yatil.net){:width="150px"}
+
+Eric is passionate about accessibility. He also enjoys listening to podcasts. As a consultant he teaches accessibility in various contexts, translating <abbr title="web content accessibility guidelines">WCAG</abbr> to Human. He also teaches accessibility to content strategists in a course at the FH Joanneum Graz.
+
+You can find Eric here:
+
+* [yatil.net](https://yatil.net)
+* [Twitter: @yatil](https://twitter.com/yatil)
+* [Notist: @yatil](https://noti.st/yatil)
+
