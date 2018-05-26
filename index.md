@@ -28,4 +28,6 @@ There are a few things that you can do to make your show more accessible. First,
 
 ## Podcast list
 
-We're building a list of podcasts on a variety of topics that are accessible. [Check out the shows' list](http://podcast-accessibility.com/directory/)
+We're building a list of podcasts on a variety of topics that are accessible. 
+
+[Check out the shows' list](http://podcast-accessibility.com/directory/)
