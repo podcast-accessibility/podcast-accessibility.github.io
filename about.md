@@ -11,7 +11,7 @@ sidebar_link: true
 
 Nic runs the A11y Rules Podcast, a show about web accessibility. He wants to spread the word about podcast accessibility, because he's passionate about it! Eric is also passionate about accessibility. He is an avid podcast listener and long time developer.
 
-One morning, Nic and Eric were talking about podcast accessibility. They were thinking it would be great if there was a spot for podcasters to learn about accessibility. And in the space of a few hours, Podcast Accessibility was born!
+One morning[^1], Nic and Eric were talking about podcast accessibility. They were thinking it would be great if there was a spot for podcasters to learn about accessibility. And in the space of a few hours, Podcast Accessibility was born!
 
 ## Who is behind it
 
@@ -43,3 +43,4 @@ You can find Eric here:
 * [Twitter: @yatil](https://twitter.com/yatil)
 * [Notist: @yatil](https://noti.st/yatil)
 
+[^1]: Actually for Eric it was more the late afternoon, but who wants to be overly precise like that ;-)
