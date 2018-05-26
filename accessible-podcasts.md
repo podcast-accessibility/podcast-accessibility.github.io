@@ -5,15 +5,12 @@ permalink: /directory/
 sidebar_link: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## List of accessible podcasts
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is not an exhaustive list of accessible podcasts, but every time we come across a podcast that is accessible, we'll add it here. Please feel free to add other accessible podcasts you come across. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Do note - While we will make every possible effort to double check new entries, we cannot guarantee the podcasts on this list are accessible.
 
-
-[jekyll-organization]: https://github.com/jekyll
+The A11y Rules Podcast
+: [https://a11yrules.com](https://a11yrules.com)
+: Conversations around web accessibility.
