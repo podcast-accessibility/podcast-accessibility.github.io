@@ -13,6 +13,10 @@ This is not an exhaustive list of accessible podcasts, but every time we come ac
 
 Do note - While we will make every possible effort to double check new entries, we cannot guarantee the podcasts on this list are accessible.
 
+Disability Visibility Project
+: [https://disabilityvisibilityproject.com/author/alwong199/](https://disabilityvisibilityproject.com/author/alwong199/)
+: All episodes available as downloadable files
+
 The A11y Rules Podcast
 : [https://a11yrules.com](https://a11yrules.com)
 : Nic Steenhout leads conversations around web accessibility.
