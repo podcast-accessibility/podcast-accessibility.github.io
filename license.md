@@ -26,7 +26,7 @@ Under the following terms:
 
 * **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-Attribute to "Nicolas Steenhout and Eric Egert, podcast-accessibility.com, CC BY-NC_ND 4.0"
+**Attribute to "Nicolas Steenhout and Eric Egert, podcast-accessibility.com, CC BY-NC-ND 4.0"**
 
 ## Theme released under MIT License
 
