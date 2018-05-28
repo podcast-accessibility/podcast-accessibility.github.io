@@ -13,11 +13,18 @@ Then to better expose your content to search engines, like Google. This also mea
 
 It will also help you access your own content more easily. If you have transcripts for every show, you can search and reference what was discussed on your show at any point.
 
-## The right thing to do
+* <a href="#right">It's the right thing to do</a>
+* <a href="#pwd">People with disabilities benefit</a>
+* <a href="#other">Other people benefit</a>
+* <a href="#indexed">You benefit - Your content is indexed</a>
+* <a href="#exposure">Your reach increases</a>
+* <a href="#legal">There may be legal requirements</a>
+
+## The right thing to do {#right}
 
 Most people and organizations want to do the right thing. And implementing accessibility is the right thing to do!
 
-## People with disabilities
+## People with disabilities {#pwd}
 
 The first obvious group of people who benefit from podcast accessibility is folks with hearing impairments. Whether they are Deaf or Hard-of-Hearing, a transcript makes a world of difference in whether or not they can consume your show. There are also people with cognitive impairments who can better process your information if they are able to read a transcript while they listen to the audio.
 
@@ -25,7 +32,7 @@ There are also people trying to reach your content directly on your site who nee
 
 Then there are people who are keyboard-only users, whether they are sighted or not. Some people cannot, for whatever reason, use a mouse, trackpad or trackball. This means if you can't use your keyboard to navigate your pages, and activate all controls, you exclude this part of your audience. Keyboard navigation for sighted visitors also means being able to see where the focus is. And it's not just about people who have permanent impairments. Think of the person who broke their arm and can't use a mouse for a while. Apart from visible focus, being able to access all parts of the site via keyboard is also mission critical for people who are blind.
 
-## Other target groups benefiting from accessibility
+## Other target groups benefiting from accessibility {#other}
 
 While implementing accessibility is primarily about providing your content for people with disabilities, there are other groups that benefit from accessibility. These include:
 
@@ -41,11 +48,11 @@ People who are fast reader
 People on low connections or poor bandwidth
 : We often forget that not everyone has the benefit of truly high speed internet access, or lots of data. For instance, many people within 30 minutes drive of Canada's capital city, Ottawa, can only get 5MPBS download speeds.
 
-## Indexed and searchable content for you
+## Indexed and searchable content for you {#indexed}
 
 Having the text of every show you've produced means you can easily find information. Do you need to refer to the show where you spoke about [beaver tails](https://www.tripsavvy.com/beavertails-beaver-what-2391981) but don't remember what episode that was? Quick search and you have it! Do you wish to write a book based on a compilation of shows? All the quotes and references are within your reach. Do you want to avoid repeating something you said? 
 
-## Increase reach and exposure
+## Increase reach and exposure {#exposure}
 
 This American Life, a popular radio show in the US had over 520 1-hour episode. They decided to provide transcripts for all the shows. A [case study of traffic after implementing the transcripts](http://www.3playmedia.com/customers/case-studies/this-american-life/) shows that:
   
@@ -56,7 +63,7 @@ This American Life, a popular radio show in the US had over 520 1-hour episode. 
 
 Significant numbers, by any metric.
 
-## Legal responsibility
+## Legal responsibility {#legal}
 
 Depending on where you're based, you may face [legal requirements for accessibility](https://www.w3.org/WAI/policies/). 
 
