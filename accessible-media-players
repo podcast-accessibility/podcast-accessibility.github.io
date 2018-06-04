@@ -2,7 +2,7 @@
 layout: page
 title: Accessible media players
 permalink: /accessible-media-players/
-sidebar_link: false
+sidebar_link: true
 ---
 
 One of the items you have to consider to improve your podcast's accessibility is which player you'll use. Many of the players available through major podcasting platforms are not accessible. Providing alternatives is important.
