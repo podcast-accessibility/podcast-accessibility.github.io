@@ -11,7 +11,7 @@ sidebar_link: true
 
 This is not an exhaustive list of accessible podcasts, but every time we come across a podcast that is accessible, we'll add it here. Please feel free to add other accessible podcasts you come across. 
 
-Do note - While we will make every possible effort to double check new entries, we cannot guarantee the podcasts on this list are accessible.
+**Do note** - While we will make every possible effort to double check new entries, we cannot guarantee the podcasts on this list are accessible. **Further note** that the website for these podcasts may not be accessible, but at a minimum, transcripts are provided.
 
 Disability Visibility Project
 : [https://disabilityvisibilityproject.com/author/alwong199/](https://disabilityvisibilityproject.com/author/alwong199/)
