@@ -11,7 +11,7 @@ sidebar_link: true
 There are a few things to do to improve your podcast's accessibility.
 
 * Add [transcripts](#transcripts) to your shows.
-* Ensure your website is accessible.
+* Ensure your [website is accessible](#accessible-site).
 * Pick an accessible [media player](#media-player).
 
 ## Transcripts {#transcripts}
@@ -22,6 +22,22 @@ Transcripts are, arguably, the most important thing you can do to increase your 
 You can create your own transcripts. You can also use commercial services to get automated or human generated transcripts. The best way to provide a transcript is inline on the show's page itself, but you can also provide downloadable or linked transcripts.
 
 [Detailed information on creating and displaying transcripts](https://podcast-accessibility.com/how-transcripts/)
+
+## Accessible website {#accessible-site}
+
+Your website site should be coded with accessibility in mind. This will allow people with disabilities to access your shows, the show notes, the transcripts, etc.
+
+Some elements to consider for site accessibility:
+
+* Every interactive element on the website can be accessed and activated using only the keyboard
+* Focus is visible on interactive elements
+* Color contrast is sufficient to be able to read and perceive all elements on a page
+* Text can be resized by at least 200% and still be readable
+* Decorative images have an empty alt attribute
+* Informative images have descriptive alt text
+* The page is screen reader friendly
+
+[Accessible sites in a bit more details](https://podcast-accessibility.com/accessible-sites)
 
 ## Media players {#media-player}
 
