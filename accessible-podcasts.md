@@ -2,7 +2,7 @@
 layout: page
 title: Accessible Podcast Directory
 nav_title: Podcasts list
-order: 5
+order: 6
 permalink: /directory/
 sidebar_link: true
 ---
