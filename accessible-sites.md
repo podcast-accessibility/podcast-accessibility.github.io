@@ -147,6 +147,6 @@ Automated testing is not going to catch all the accessibility errors. You can't 
 
 Some good accessibility testing tools include:
 
-*[aXe](https://www.deque.com/axe/)
-*[WAVE](https://wave.webaim.org/)
-*[Tenon](https://tenon.io)
+* [aXe](https://www.deque.com/axe/)
+* [WAVE](https://wave.webaim.org/)
+* [Tenon](https://tenon.io)
