@@ -22,7 +22,7 @@ There are many reasons why you ought to make your podcast accessible. The primar
 
 ## How
 
-There are a few things that you can do to make your show more accessible. First, provide transcripts. Then, focus on your website and media player. Transcripts are easy. Website and media player might take a bit more doing, particularly if you're not comfortable with website building. But this is within the reach of most people!
+There are a few things that you can do to make your show more accessible. First, provide transcripts. Then, focus on your website and media player. Transcripts are the easiest to implement from a tech perspective. Website and media player might take a bit more doing, particularly if you're not comfortable with website building. But this is within the reach of most people!
 
 [Learn how you can implement accessibility for your podcast](http://podcast-accessibility.com/how)
 
