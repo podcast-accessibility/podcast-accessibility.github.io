@@ -21,6 +21,11 @@ Strategy car
 : [https://strategycar.com/show/](https://strategycar.com/show/)
 : Explores the big and small ways the web touches the world and the people in it.
 
+Tails from the Dark Dragons Inn
+: [https://tailsfromthedarkdragonsinn.co.uk/get-more/](https://tailsfromthedarkdragonsinn.co.uk/get-more/)
+: A weekly, episodic, audio drama Podcast driven primarily by improvised table-top role-play.
+: Transcripts available for some shows - more coming (as of June 2018)
+
 The A11y Rules Podcast
 : [https://a11yrules.com](https://a11yrules.com)
 : Nic Steenhout leads conversations around web accessibility.
