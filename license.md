@@ -5,28 +5,29 @@ permalink: /license/
 sidebar_link: false
 ---
 
-## Content released under CC BY-NC-ND 4.0 License
+## Content released under CC BY-NC 4.0 License
 
-[Creative Commons Attribution-NonCommercial-NoDerivative-International 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 You are free to:
 
 **Share — copy and redistribute the material in any medium or format**
+**Adapt — remix, transform, and build upon the material**
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following terms:
 
-* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-* **NonCommercial** — You may not use the material for commercial purposes.
+**NonCommercial** — You may not use the material for commercial purposes.
 
-* **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-* **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-**Attribute to "Nicolas Steenhout and Eric Egert, podcast-accessibility.com, CC BY-NC-ND 4.0"**
+**Attribute to "Nicolas Steenhout and Eric Egert, podcast-accessibility.com, CC BY-NC-SA 4.0"**
 
 ## Theme released under MIT License
 
