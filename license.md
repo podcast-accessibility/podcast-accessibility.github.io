@@ -5,7 +5,7 @@ permalink: /license/
 sidebar_link: false
 ---
 
-## Content released under CC BY-NC 4.0 License
+## Content released under CC BY-NC-SA 4.0 License
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
