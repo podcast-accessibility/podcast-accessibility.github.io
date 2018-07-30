@@ -36,6 +36,11 @@ The Big Web Show
 : The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters. Hosted by Jeffrey Zeldman.
 : Transcripts available for most episodes.
 
+The Hanselminutes Podcast
+: [https://hanselminutes.com/](https://hanselminutes.com/)
+: Fresh Tech from Fresh Faces
+: Most episodes have interactive transcripts via Greta
+
 The Web Ahead
 : [http://www.thewebahead.net](http://www.thewebahead.net)
 : Jen Simmons speaks with world experts on changing technologies and the future of the web.
