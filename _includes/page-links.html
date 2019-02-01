@@ -6,8 +6,9 @@
 {% for node in pages_list %}
   {% if node.title != null %}
     {% if node.sidebar_link %}
-      <a class="page-link {% if page.url == node.url %} active{% endif %}" {% if page.url == node.url %}aria-current="page"{% endif %}
-          href="{{ site.baseurl }}{{ node.url }}">{% if node.nav_title %}{{ node.nav_title }}{% else %}{{ node.title }}{% endif %}</a>
+      <li><a class="page-link {% if page.url == node.url %} active{% endif %}" {% if page.url == node.url %}aria-current="page"{% endif %}
+          href="{{ site.baseurl }}{{ node.url }}">{% if node.nav_title %}{{ node.nav_title }}{% else %}{{ node.title }}{% endif %}</a></li>
     {% endif %}
   {% endif %}
+  {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
