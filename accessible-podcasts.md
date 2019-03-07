@@ -22,6 +22,10 @@ Disability Visibility Project
 : [disabilityvisibilityproject.com/<wbr>author/alwong199/](https://disabilityvisibilityproject.com/author/alwong199/)
 : All episodes available as downloadable files
 
+Responsive Web Design
+: [https://responsivewebdesign.com/podcast/](https://responsivewebdesign.com/podcast/)
+: Ethan Marcotte and Karen McGrane interview people who make responsive redesign happen. The show appears to no longer be active, though has 157 episodes available.
+
 Strategy car
 : [strategycar.com/show/](https://strategycar.com/show/)
 : Explores the big and small ways the web touches the world and the people in it.
