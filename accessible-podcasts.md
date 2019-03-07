@@ -13,6 +13,9 @@ This is not an exhaustive list of accessible podcasts, but every time we come ac
 
 **Do note** - While we will make every possible effort to double check new entries, we cannot guarantee the podcasts on this list are accessible. **Further note** that the website for these podcasts may not be accessible, but at a minimum, transcripts are provided.
 
+Advisor ToGo
+: [https://www.advisor.ca/togo/](https://www.advisor.ca/togo/)
+
 Clear + Vivid
 : Alan Alda’s spirited conversations with people who know how hard it is, and yet how good it feels, to really connect with other people
 : [aldacommunicationtraining.com/podcasts/](http://www.aldacommunicationtraining.com/podcasts/)
