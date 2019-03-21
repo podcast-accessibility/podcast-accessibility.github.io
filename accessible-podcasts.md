@@ -64,7 +64,7 @@ The Daily (by the New York Times)
 : Transcripts available for all episodes starting January 2019. See [this post about their approach to transcriptions](https://open.nytimes.com/from-audio-waves-to-words-episodes-of-the-daily-now-come-with-transcripts-298ab8cb9481).
 
 The Frontier
-:[https://www.gun.io/frontier](https://www.gun.io/frontier)
+: [https://www.gun.io/frontier](https://www.gun.io/frontier)
 : A podcast exploring business innovation through technology.
 : Transcripts available for every episode.
 
