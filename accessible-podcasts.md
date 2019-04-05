@@ -25,6 +25,11 @@ Disability Visibility Project
 : [disabilityvisibilityproject.com/<wbr>author/alwong199/](https://disabilityvisibilityproject.com/author/alwong199/)
 : All episodes available as downloadable files
 
+Microsoft Research Podcast
+: An ongoing series of convestations bringing you right up to the cutting edge of Microsoft Research
+: [https://www.microsoft.com/en-us/research/blog/category/podcast/](https://www.microsoft.com/en-us/research/blog/category/podcast/)
+: All episodes transcribed. Minor accessibility issues on the website itself.
+
 Responsive Web Design
 : [https://responsivewebdesign.com/podcast/](https://responsivewebdesign.com/podcast/)
 : Ethan Marcotte and Karen McGrane interview people who make responsive redesign happen. The show appears to no longer be active, though has 157 episodes available.
