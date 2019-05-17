@@ -25,6 +25,11 @@ Disability Visibility Project
 : [disabilityvisibilityproject.com/<wbr>author/alwong199/](https://disabilityvisibilityproject.com/author/alwong199/)
 : All episodes available as downloadable files
 
+Join the Party Pod
+: They are a collaborative storytelling and roleplaying podcast. That means friends creating a story together, chapter by chapter.
+: [https://www.jointhepartypod.com/](https://www.jointhepartypod.com/)
+: All episodes transcribed, including description of appropriate atmospheric sounds/music. Media player relatively keyboard-friendly.
+
 Microsoft Research Podcast
 : An ongoing series of convestations bringing you right up to the cutting edge of Microsoft Research
 : [https://www.microsoft.com/en-us/research/blog/category/podcast/](https://www.microsoft.com/en-us/research/blog/category/podcast/)
