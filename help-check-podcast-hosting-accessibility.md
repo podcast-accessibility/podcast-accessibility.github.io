@@ -37,7 +37,7 @@ What makes a podcast accessible? Well, as you may garner from the entirety of th
 ## How to provide this information
 Please put the information on the GitHub page, send a pull request. 
 
-[Add podcast hosting information on GitHub](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/podcast-hosting-services.md)
+[View the list of podcast hosting and add accessibility information](https://podcast-accessibility.com/podcast-hosting-accessibility-information/)
 
 If you do not have a GitHub account or are intimidated by GitHub, please send me a tweet to organize a different way to provide me the information.
 
