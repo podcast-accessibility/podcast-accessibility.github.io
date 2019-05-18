@@ -7,6 +7,8 @@ sidebar_link: false
 
 This page is intended for people to add information about the mini accessibility audits of different podcast hosting platforms.
 
+[Add more accessibility information about podcast hosting to this page on GitHub.](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/{{page.path}})
+
 ## Podcast Hosting list
 
 In alphabetical order (Please add new ones if not listed):
@@ -96,4 +98,4 @@ In alphabetical order (Please add new ones if not listed):
 * **Media player is screen reader friendly**: (Yes. No. Dunno)
 * **Other pertinent information**:
 
-
+[Add more accessibility information about podcast hosting to this page on GitHub.](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/{{page.path}})
