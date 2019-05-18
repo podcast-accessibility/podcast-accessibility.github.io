@@ -15,6 +15,7 @@ Here is a non-exhaustive list of podcast hosting services I would like to start 
 * [Buzzsprout](https://www.buzzsprout.com/)
 * [Simplecast](https://simplecast.com/)
 * [Castos](https://castos.com/)
+* [This Is a Cast](https://tryca.st/)
 
 And if anyone from these services wants to provide a self-assessment, please, do so! I welcome all information about these services.
 
