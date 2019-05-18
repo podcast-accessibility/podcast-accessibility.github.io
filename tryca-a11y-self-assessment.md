@@ -1,15 +1,15 @@
 ---
 layout: page
-title: This Is a Cast Accessibility Mini Self-Assessment
+title: This Is Cast Accessibility Mini Self-Assessment
 permalink: /tryca-a11y-self-assessment/
 sidebar_link: false
 ---
 
-This page is This Is a Cast's accessibility mini self-assessment. 
+This page is This Is Cast's accessibility mini self-assessment. 
 
-[This Is a Cast team can edit this page on GitHub.](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/{{page.path}})
+[This Is Cast team can edit this page on GitHub.](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/{{page.path}})
 
-## [This Is a Cast](https://www.castos.com/)
+## [This Is Cast](https://www.castos.com/)
 * **Date checked**:  
 * **Has ability to provide transcripts?** (No. Yes.)
 * **Transcript location**: 
