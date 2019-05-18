@@ -17,4 +17,4 @@ Over time, we will review and analyze popular podcast hosting services for acces
 
 As of June 7, 2018, there are no hosting services reviewed.
 
-[Submit an accessibility review of a podcast hosting service](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/{{page.path}})
+See [Request for help with assessing podcast hosting platforms](https://podcast-accessibility.com/how-accessible-are-podcast-hosting-services/)
