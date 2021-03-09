@@ -7,7 +7,7 @@ permalink: /directory/
 sidebar_link: true
 ---
 
-## List of accessible podcasts
+## Podcast Directory
 
 This is not an exhaustive list of accessible podcasts, but every time we come across a podcast that is accessible, we'll add it here. Please feel free to add other accessible podcasts you come across. 
 
