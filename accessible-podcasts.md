@@ -30,6 +30,11 @@ Join the Party Pod
 : [https://www.jointhepartypod.com/](https://www.jointhepartypod.com/)
 : All episodes transcribed, including description of appropriate atmospheric sounds/music. Media player relatively keyboard-friendly.
 
+Ladybug Podcast
+: All female tech podcast that started in June 2019.
+: [ladybug.dev](https://ladybug.dev)
+: All podcast transcribed, website has no obvious accessibility issues.
+
 Microsoft Research Podcast
 : An ongoing series of convestations bringing you right up to the cutting edge of Microsoft Research
 : [https://www.microsoft.com/en-us/research/blog/category/podcast/](https://www.microsoft.com/en-us/research/blog/category/podcast/)
