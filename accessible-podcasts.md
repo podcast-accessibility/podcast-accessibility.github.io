@@ -21,6 +21,14 @@ Clear + Vivid
 : [aldacommunicationtraining.com/podcasts/](http://www.aldacommunicationtraining.com/podcasts/)
 : Transcripts available for all episodes.
 
+Chartreuse Epic Rap Battle
+: A serialized comedy, audio drama about four ladies who started a rap battle in a Manitoba correctional facility.
+: Closed Captions available on Podcast Addict App [https://podcastaddict.com/podcast/3722571](https://podcastaddict.com/podcast/3722571)
+: [https://chartreuses-epic-rap.captivate.fm/](https://chartreuses-epic-rap.captivate.fm/)
+: Transcripts available on website. 
+
+
+
 Disability Visibility Project
 : [disabilityvisibilityproject.com/<wbr>author/alwong199/](https://disabilityvisibilityproject.com/author/alwong199/)
 : All episodes available as downloadable files
