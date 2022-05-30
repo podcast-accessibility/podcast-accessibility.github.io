@@ -101,4 +101,9 @@ The Web Ahead
 : Jen Simmons speaks with world experts on changing technologies and the future of the web.
 : Many, but not all, episodes transcribed.
 
+The .NET Core Podcast
+: A podcast which, with the help of the development community, aims to help software developers to learn everything they need to know about one of the biggest, open source, cross-platform, modern multi application frameworks.
+: [dotnetcore.show/](https://dotnetcore.show/)
+: Transcripts available for all episodes.
+
 [Add more podcasts to this page on GitHub.](https://github.com/podcast-accessibility/podcast-accessibility.github.io/edit/master/{{page.path}})
