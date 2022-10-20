@@ -48,6 +48,11 @@ Microsoft Research Podcast
 : [https://www.microsoft.com/en-us/research/blog/category/podcast/](https://www.microsoft.com/en-us/research/blog/category/podcast/)
 : All episodes transcribed. Minor accessibility issues on the website itself.
 
+: Mount Washington Valley SPIRIT Podcast
+: This podcast is an audible version of Eric Extreme's blog on the MWV Spirit website which will explore topics pertaining to paranormal investigations, paranormal science, and parapsychology.
+: [https://www.mwvspirit.com/podcast.html](https://www.mwvspirit.com/podcast.html)
+: All episodes transcribed in the blog which is linked in every podcast episode's notes.
+
 Responsive Web Design
 : [https://responsivewebdesign.com/podcast/](https://responsivewebdesign.com/podcast/)
 : Ethan Marcotte and Karen McGrane interview people who make responsive redesign happen. The show appears to no longer be active, though has 157 episodes available.
